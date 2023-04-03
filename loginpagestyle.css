@@ -1,0 +1,31 @@
+body, html {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Montserrat', sans-serif;
+    background: url(header.jpg) no-repeat center center fixed;
+    color: white;
+    vertical-align: sub;
+}
+
+.btn {
+	text-transform: uppercase;
+	border-radius: 30px;
+}
+
+.btn-dark:hover {
+	background-color: red;
+}
+
+hr {
+	border-color: red;
+	border-width: 5px;
+    margin: 20px auto;
+    max-width: 100px;
+    opacity: 1;  
+}
+
+.buffer {
+	height: 200px;
+}
